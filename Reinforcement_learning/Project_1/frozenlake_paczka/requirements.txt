@@ -1,0 +1,5 @@
+# Minimal pip requirements for the FrozenLake RL course pack
+numpy
+matplotlib<3.9
+pygame>=2.3.1
+gymnasium>=0.28

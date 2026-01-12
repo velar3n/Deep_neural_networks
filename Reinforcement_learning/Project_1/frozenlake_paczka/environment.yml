@@ -1,0 +1,21 @@
+name: frozenlake-rl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+
+  # Core
+  - numpy
+  - pygame>=2.3.1
+
+  # Pin matplotlib to avoid requiring newer CXXABI on older systems
+  - "matplotlib<3.9"
+  - "matplotlib-base<3.9"
+
+  # Jupyter
+  - ipykernel
+  - notebook
+
+  - pip
+  - pip:
+      - gymnasium>=0.28
