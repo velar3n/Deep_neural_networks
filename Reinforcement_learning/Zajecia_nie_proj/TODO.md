@@ -1,0 +1,4 @@
+- [x] Algorytmy z folderu 'algorithms' 
+- [ ] CH05 02 - notebook z monte carlo
+- [ ] CH06 03 - notebook TD0
+- [ ] CH06 04 - notebook TD lambda bridge
